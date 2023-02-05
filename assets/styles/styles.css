@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  text-decoration: none;
+}
+
+img {
+  width: 100%;
+}
+.nav-container {
+  display: flex;
+}
+
+header {
+  width: 80%;
+  height: 70px;
+  background: #fefefe;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 40px;
+  border-radius: 0 0 10px 10px;
+  margin: 0 auto;
+}
