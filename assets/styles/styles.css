@@ -13,14 +13,15 @@ img {
   display: flex;
 }
 
-header {
-  width: 80%;
-  height: 70px;
-  background: #fefefe;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  padding: 0 40px;
-  border-radius: 0 0 10px 10px;
-  margin: 0 auto;
+.header {
+  height: 80px;
+  width: 100%; /* this enlarge the header background 100%  */
+  background-color: aqua;
+}
+
+.nav-container ul li {
+  /* align-items: center; */
+  /* justify-content: start; */
+  
+  
 }
