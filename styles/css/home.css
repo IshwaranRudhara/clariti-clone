@@ -1,0 +1,14 @@
+.nav-container {
+  display: flex;
+}
+
+.header {
+  height: 80px;
+  width: 100%; /* this enlarge the header background 100%  */
+  background-color: aqua;
+}
+
+.nav-container ul li {
+  /* align-items: center; */
+  /* justify-content: start; */
+}
