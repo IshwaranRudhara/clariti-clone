@@ -8,7 +8,9 @@
   background-color: aqua;
 }
 
-.nav-container ul li {
+.nav-container ul li a {
+  display: flex;
+  justify-content: ;
   /* align-items: center; */
   /* justify-content: start; */
 }
