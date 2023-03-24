@@ -8,9 +8,16 @@
   background-color: aqua;
 }
 
-.nav-container ul li a {
+/* nav {
   display: flex;
-  justify-content: ;
-  /* align-items: center; */
-  justify-content: start;
+} */
+
+.nav-container {
+  max-width: 1180px;
+  margin: auto;
+  align-items: center;
+}
+
+.nav-container ul li a {
+  /* justify-content: space-between; */
 }

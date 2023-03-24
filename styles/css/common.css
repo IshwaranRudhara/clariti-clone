@@ -1,5 +1,5 @@
 * {
-  box-sizing: border-box;
+  /* box-sizing: border-box; */
   padding: 0;
   margin: 0;
   list-style: none;
@@ -7,5 +7,9 @@
 }
 
 img {
-  width: 100%;
+  /* width: 100%; */
+}
+
+nav {
+  display: flex;
 }
