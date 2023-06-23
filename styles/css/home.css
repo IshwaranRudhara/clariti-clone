@@ -1,3 +1,11 @@
+* {
+  list-style: none !important;
+  margin: 0;
+  padding: 0;
+}
+/* .bg {
+  background-image: url(/assets/img/bg/Banner_image.jpg);
+} */
 .nav-container {
   display: flex;
 }
@@ -7,12 +15,17 @@
   width: 100%; /* this enlarge the header background 100%  */
   background-color: aqua;
 }
+.navbar-list ul {
+  display: flex;
+}
 
+.navbar-list a {
+  text-decoration: none;
+  n   }
 /* nav {
   display: flex;
-} */
-
-.nav-container {
+} */ 
+.mxW {
   max-width: 1180px;
   margin: auto;
   align-items: center;
